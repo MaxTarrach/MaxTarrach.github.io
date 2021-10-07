@@ -1,7 +1,7 @@
 ---
 layout: post
 titel: 'Why i choose Jekyll over anything else'
-date: '2021-08-24 12:30:00 +0200'
+date: '2021-10-10 12:30:00 +0200'
 --- 
 
 The most fundamental definition of a blog is a website with a dated collection of entries, presented in reverse chronological order and  published to the internet.
@@ -23,8 +23,10 @@ More in depth information about this issue can be gathered here: <https://hacker
 ## Jekyll as a solution
 
 *Jekyll does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.*
+
 .. is the philosophy of jerkyll stated in it`s [README file](https://github.com/jekyll/jekyll/blob/master/README.markdown "Github page of README file").
 
 Released by Preston Werner in 2008 Jekyll is one of the biggest static site generators. Publishing from a Github repository on Github Pages creates no additional costs. Sites are fully customizable
-and not relying on databases. The content supports loading content from YAML, JSON, CSV or MARKDOWN files.
-The content is arranged in MARKDOWN files. This implicates its under full control of the content creator when it comes to making changes, deleting or exporting blogposts.
+and not relying on databases. The content supports loading content from YAML, JSON, CSV or Markdown files.
+The content is arranged in Markdown files. This implicates it's under full control of the content creator when it comes to making changes, deleting or exporting blogposts.
+The writing can be done in the VI editor and guess what? We like the comfort!
